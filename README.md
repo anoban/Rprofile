@@ -1,2 +1,2 @@
 # *A customized Rprofile.site file for Microsoft Windows platform.*        
-### *Tailored for Microsoft R open 4.0.2**
+### *Tailored for Microsoft R open 4.0.2*
