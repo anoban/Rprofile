@@ -169,7 +169,7 @@ local(
 		}
 		cat("\nDefault CRAN mirror snapshot taken on ",repos.date, ".", sep = "")
 		# cat("\n", "See: https://mran.microsoft.com/.",sep="")
-		# cat("\n\n")
+		cat("\n")
 	}	
 }) 
 
